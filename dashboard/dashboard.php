@@ -14,7 +14,7 @@
 
 </head>
 <body>
-tst
+
   <!-- fold-here -->
   <div id='top'>
     <div class='logo'><img src='./lib/logo/logo.png'></img></div>
