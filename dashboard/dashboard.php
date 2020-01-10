@@ -2,7 +2,7 @@
 <html>
 <head>
 
-  <title>INVESTIUM.SK | Dashboard</title>
+  <title>Dashboard</title>
   <meta charset='UTF-8'>
 
   <link rel='stylesheet' href='dashboard.css'>
@@ -14,7 +14,7 @@
 
 </head>
 <body>
-tst
+
   <!-- fold-here -->
   <div id='top'>
     <div class='logo'><img src='./lib/logo/logo.png'></img></div>
